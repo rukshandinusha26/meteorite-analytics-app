@@ -84,5 +84,3 @@ The app will open in your default web browser at `http://localhost:8501`.
 Data provided by the [NASA Open Data Portal](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh).
 
 ---
-
-Built with ❤️ by [Your Name]
