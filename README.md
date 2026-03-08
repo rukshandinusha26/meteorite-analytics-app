@@ -6,6 +6,10 @@ A professional, interactive data science dashboard built with **Streamlit** to v
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-ff4b4b)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+https://github.com/user-attachments/assets/1a8fc1f5-3fd2-4b06-886e-e494666df448
+
+
 ---
 
 ## 🌟 Features
